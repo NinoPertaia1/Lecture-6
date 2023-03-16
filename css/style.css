@@ -1,0 +1,9 @@
+.bodyclass{
+ background-image: url('../images/moon.jpg');
+ width: 100px;
+ height: 100px;
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-color: #cccccc;
+
+}
